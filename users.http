@@ -1,0 +1,11 @@
+POST http://localhost:5000/api/refresh_token
+Content-Type: application/json
+
+{
+
+"email":"test@email.de",
+"password":"12345"
+
+
+
+}
