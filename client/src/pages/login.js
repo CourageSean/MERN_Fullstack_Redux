@@ -61,7 +61,8 @@ export default function Login() {
         </button>
 
         <p className='my-2'>
-          You don't have an account? <Link to='/register'> Register Now</Link>
+          You don't have an account?{' '}
+          <Link to='/register'> Register Now and here1</Link>
         </p>
       </form>
     </div>
